@@ -1,0 +1,6 @@
+﻿  Q2.cpp
+C:\Users\Jax\Desktop\CODING\VGP122_L03_Vignal_Jaxson\Lab3\Q2\Q2.cpp(6,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jax\Desktop\CODING\VGP122_L03_Vignal_Jaxson\Lab3\Q2\Q2.cpp(11,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jax\Desktop\CODING\VGP122_L03_Vignal_Jaxson\Lab3\Q2\Q2.cpp(16,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jax\Desktop\CODING\VGP122_L03_Vignal_Jaxson\Lab3\Q2\Q2.cpp(21,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Q2.vcxproj -> C:\Users\Jax\Desktop\CODING\VGP122_L03_Vignal_Jaxson\Lab3\x64\Debug\Q2.exe
